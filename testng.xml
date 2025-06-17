@@ -1,0 +1,7 @@
+<suite name="UI and API Automation">
+    <test name="Cucumber Tests">
+        <classes>
+            <class name="runners.TestRunner"/>
+        </classes>
+    </test>
+</suite>
